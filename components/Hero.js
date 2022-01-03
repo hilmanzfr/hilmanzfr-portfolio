@@ -11,13 +11,13 @@ function Hero() {
         <div className="flex flex-col-reverse items-start justify-between md:flex-row md:space-x-20 ">
           <div className="flex flex-col w-full">
             <p className="text-4xl font-extrabold pb-2 text-center text-transparent bg-clip-text bg-gradient-to-r from-[#50d89f]  to-[#6a7eda] sm:text-5xl lg:text-6xl md:text-left mb-6">
-              Hey, I'm Hilman.
+              Hey, I&apos;m Hilman.
             </p>
             {/* <p className="text-4xl font-extrabold pb-2 text-center text-transparent bg-clip-text bg-gradient-to-r from-[#5899ee] via-[#e78df3] to-[#eeb471] sm:text-5xl lg:text-6xl md:text-left mb-6">
               Hey, I'm Hilman.
             </p> */}
             <p className="text-xl text-slate-300 sm:text-2xl text-center md:text-left md:leading-9 mb-5">
-              I'm currently a final year student at Universiti Teknologi PETRONAS 🇲🇾 studying Information Technology with Data Analytics major
+              I&apos;m currently a final year student at Universiti Teknologi PETRONAS 🇲🇾 studying Information Technology with Data Analytics major
             </p>
             <p className="text-xl text-slate-300 sm:text-2xl text-center md:text-left mb-6">
               Previously intern at{" "}
