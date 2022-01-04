@@ -6,7 +6,7 @@ function Testimonial() {
     <section>
       <div className="font-ilisarniq max-w-xl sm:max-w-2xl md:max-w-3xl lg:max-w-6xl mx-auto px-12 py-10 lg:mt-10">
         <div className="flex flex-row justify-center items-center">
-          <h1 className="text-xl font-semibold sm:text-2xl md:text-4xl text-slate-300">
+          <h1 className="text-2xl font-semibold sm:text-4xl text-transparent bg-clip-text bg-gradient-to-r from-[#50d89f]  to-[#6a7eda]">
             Testimonial
           </h1>
           <img
@@ -15,14 +15,11 @@ function Testimonial() {
             alt="verified"
           />
         </div>
-        {/* <div className="flex pt-2 pl-2 w-full sm:w-2/5 mt-16 rounded-3xl mx-auto bg-gradient-to-br from-slate-400 via-blue-200 to-pink-500 hover:shadow-md"> */}
-        <div className="flex pt-2 pl-2 w-full sm:w-2/5 mt-16 rounded-3xl mx-auto bg-gradient-to-br from-[#50d89f]  to-[#6a7eda] hover:shadow-md">
+        <div className="flex pt-2 pl-2 w-full sm:w-3/5 lg:w-2/5 mt-5 sm:mt-10 md:mt-16 rounded-3xl mx-auto bg-gradient-to-br from-[#50d89f]  to-[#6a7eda] hover:shadow-md">
           <div className="flex flex-col w-full sm:w-full bg-slate-100 bg-opacity-60 rounded-3xl mx-auto items-center justify-center">
             <FaQuoteRight className="mt-10 text-3xl sm:text-4xl text-slate-800 hover:text-black" />
             <p className="mt-5 mx-8 text-s sm:text-lg text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consequatur, neque quod rerum culpa tempora temporibus sequi
-              voluptatum quasi quaerat.
+              Hilman worked as an intern in Bosch&apos;s BPS Department. He works well independently to solve issues arise and accomplish task assigned. He also provide a good support to Penang Plant team by automating report generation and distribution, which saved employee&apos;s time on monthly reports. I&apos;m confident that with the right guidance, he will be a successful person in the future.
             </p>
             <img
               className="mt-5 rounded-full w-20 h-20 shadow-sm shadow-white"

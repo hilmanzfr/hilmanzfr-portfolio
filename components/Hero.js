@@ -13,9 +13,6 @@ function Hero() {
             <p className="text-4xl font-extrabold pb-2 text-center text-transparent bg-clip-text bg-gradient-to-r from-[#50d89f]  to-[#6a7eda] sm:text-5xl lg:text-6xl md:text-left mb-6">
               Hey, I&apos;m Hilman.
             </p>
-            {/* <p className="text-4xl font-extrabold pb-2 text-center text-transparent bg-clip-text bg-gradient-to-r from-[#5899ee] via-[#e78df3] to-[#eeb471] sm:text-5xl lg:text-6xl md:text-left mb-6">
-              Hey, I'm Hilman.
-            </p> */}
             <p className="text-xl text-slate-300 sm:text-2xl text-center md:text-left md:leading-9 mb-5">
               I&apos;m currently a final year student at Universiti Teknologi PETRONAS 🇲🇾 studying Information Technology with Data Analytics major
             </p>
@@ -52,7 +49,7 @@ function Hero() {
                   </btn>
                 </div>
               </Link>
-              <Link href="#">
+              <Link href="/">
                 <div className="p-0.5 rounded-2xl bg-gradient-to-r from-[#50d89f]  to-[#6a7eda]  hover:shadow-sm hover:shadow-[#44d3f7]">
                   <btn className="flex items-center px-5 pt-2 pb-3 text-md sm:text-lg md:text-xl lg:text-2xl  font-medium rounded-2xl cursor-pointer text-slate-300 bg-slate-900 hover:text-white md:pt-3 md:pb-4 md:px-8">
                     Resume
@@ -62,9 +59,9 @@ function Hero() {
             </div>
           </div>
 
-          <div className="flex flex-col mb-10 mx-auto md:mb-0 w-4/6">
-            {/* <img src="/dp.png" /> */}
-            <Image src={"/dp.png"} width={300} height={450} objectFit="contain" quality={100}  />
+          <div className="flex flex-col mb-10 mx-auto md:mb-0 w-5/6 md:w-4/6">
+            <img src="/dp.png" />
+            {/* <Image src={"/dp.png"} width={300} height={450} objectFit="contain" quality={100}  /> */}
           </div>
         </div>
       </div>
