@@ -70,7 +70,7 @@ function Skills() {
               </h1>
             </div>
             <p className="mb-7 mx-7 text-s sm:text-lg text-slate-300 font-medium">
-            Web development is something new for me, but I am able to utilize modern web toolkits that are available. I build visually appealing websites and apps, whether it is a static landing page or an analytical web application.
+            Web development is something new to me, but I am able to utilize modern web toolkits that are available. I build visually appealing websites and apps, whether it is a static landing page or an analytical web application.
             </p>
             <div className="mx-8 mb-7 flex flex-row justify-center">
               <SiHtml5 className="text-3xl mx-1 text-slate-500" />

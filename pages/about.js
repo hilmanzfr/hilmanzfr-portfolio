@@ -4,7 +4,13 @@ import Header from "../components/Header"
 
 function about() {
   return (
-    <div className='bg-[#11111a]'>
+    <div>
+      <Head>
+        <title>About</title>
+        <meta name="description" content="About Hilman Zafri" />
+        <link rel="icon" href="/favicon.ico" />
+        <style>{'body { background-color: #11111a; }'}</style>
+      </Head>
       <Header />
       <About />
       <Footer />
