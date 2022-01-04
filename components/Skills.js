@@ -48,7 +48,7 @@ function Skills() {
               </h1>
             </div>
             <p className="mb-7 mx-7 text-s sm:text-lg text-slate-300 font-medium">
-            I am capable of identifying the problem, extracting data, doing analysis, creating dashboards, and deploying models using variety of methods including machine/deep learning algorithms.
+            I am capable of identifying problems, extracting data, doing analysis, creating dashboards, and deploying models using appropriate methods including machine/deep learning algorithms.
             </p>
             <div className="mx-8 mb-7 flex flex-row justify-center">
               <SiPython className="text-3xl mx-1 text-slate-500" />
