@@ -123,8 +123,7 @@ function Projects() {
                 Personal Portfolio
               </p>
               <p className="text-base sm:text-xl font-medium text-slate-300 mx-8 mb-10">
-                Developed live personal portfolio with a focus on accessibility,
-                testing, and performance optimization.
+                Developed live personal portfolio with a focus on design, accessibility, and performance optimization.
               </p>
             </div>
           </div>
@@ -160,7 +159,7 @@ function Projects() {
               </p>
               <p className="text-base sm:text-xl font-medium text-slate-300 mx-8 mb-10">
                 Currently developing home-based workout posture corrector with
-                computer vision and deep learning approaches.
+                computer vision and machine learning approaches.
               </p>
             </div>
           </div>
