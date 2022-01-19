@@ -6,14 +6,14 @@ function About() {
     <div className="font-ilisarniq max-w-xl sm:max-w-2xl md:max-w-3xl lg:max-w-6xl mx-auto px-12 py-10 mt-8 lg:mt-14">
 
       <div className="flex flex-col items-center justify-center md:justify-between lg:flex-row mb-20 md:space-x-14">
-        <img className= "w-5/6 md:w-2/5 mb-10 lg:mb-0" src="/dp2.png" alt='dp2'/>
+        <img className= "w-5/6 md:w-2/5 mb-10 lg:mb-0" src="/dp2.png" alt='My Picture'/>
         {/* <div className='flex justify-center w-5/6 mb-10 lg:mb-0 lg:justify-start'>
           <Image src={'/dp2.png'} width={440} height={480} objectFit='contain' quality={100} />
         </div> */}
         <div className="flex flex-col md:ml-10">
           <h1 className="text-4xl sm:text-5xl text-slate-300 mb-7 text-center lg:text-left">👋🏼</h1>
           <p className="text-xl sm:text-2xl text-slate-300 mb-7 leading-9 text-center md:text-left">
-            I&apos;ve spent the past 3+ years working and trying out different areas of technologies; front-end development, mobile-app development, UI/UX, artificial intelligence, and game development.</p>
+            I&apos;ve spent the past 2+ years working and trying out different areas of technologies; front-end development, mobile-app development, UI/UX, artificial intelligence, and simple game development.</p>
           <p className="text-xl sm:text-2xl text-slate-300 mb-7 leading-9 text-center md:text-left">I&apos;m into any sort of software development that requires visualization and creativity. My other areas of interest include machine/deep learning, front-end development and UI/UX.</p>
           <p className="text-xl sm:text-2xl text-slate-300 mb-7 leading-9 text-center md:text-left">Beside tech-related stuffs, I spend my time building fun projects, listening to podcasts, playing guitar, and sometimes draw!</p>
         </div>

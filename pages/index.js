@@ -11,7 +11,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Hilmanzfr</title>
-        <meta name="description" content="Hilman Zafri's portfolio" />
+        <meta name="description" content="I'm currently a final year student at Universiti Teknologi PETRONAS 🇲🇾 studying Information Technology with Data Analytics major." />
         <link rel="icon" href="/favicon.ico" />
         <style>{'body { background-color: #11111a; }'}</style>
       </Head>

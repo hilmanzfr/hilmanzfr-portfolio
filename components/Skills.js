@@ -48,14 +48,13 @@ function Skills() {
               </h1>
             </div>
             <p className="mb-7 mx-7 text-s sm:text-lg text-slate-300 font-medium">
-            I am capable of identifying problems, extracting data, doing analysis, creating dashboards, and deploying models using appropriate methods including machine/deep learning algorithms.
+            I am capable of identifying problems, extracting data, doing analysis, creating dashboards, and deploying models using appropriate methods including machine learning algorithms.
             </p>
             <div className="mx-8 mb-7 flex flex-row justify-center">
               <SiPython className="text-3xl mx-1 text-slate-500" />
               <SiPandas className="text-3xl mx-1 text-slate-500" />
               <SiOpencv className="text-3xl mx-1 text-slate-500" />
               <SiJupyter className="text-3xl mx-1 text-slate-500" />
-              <SiTensorflow className="text-3xl mx-1 text-slate-500" />
               <SiScikitlearn className="text-3xl mx-1 text-slate-500" />
             </div>
           </div>
@@ -94,13 +93,12 @@ function Skills() {
               </h1>
             </div>
             <p className="mb-7 mx-7 text-s sm:text-lg text-slate-300 font-medium">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum, quidem debitis. Fugiat debitis, exercitationem quo, sit nam.
+            I am able to solve programming problems and build projects in either functional or object-oriented programming styles.
             </p>
             <div className="mx-8 mb-7 flex flex-row justify-center">
               <SiC className="text-3xl mx-1 text-slate-500" />
               <SiCplusplus className="text-3xl mx-1 text-slate-500" />
-              <SiFlutter className="text-3xl mx-1 text-slate-500" />
-              <SiJava className="text-3xl mx-1 text-slate-500" />
+              <SiPython className="text-3xl mx-1 text-slate-500" />
             </div>
           </div>
 
@@ -110,11 +108,11 @@ function Skills() {
                 <AiOutlineRadiusSetting className="text-3xl text-gray-900 m-0.5" />
               </div>
               <h1 className="text-lg sm:text-2xl font-semibold text-slate-300">
-                Graphic Design
+                Design
               </h1>
             </div>
             <p className="mb-7 mx-7 text-s sm:text-lg text-slate-300 font-medium">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum, quidem debitis. Fugiat debitis, exercitationem quo, sit nam.
+            I use art and design to express my ideas. I can create aesthetic designs, clean and minimal user interfaces for mobile and web applications.
             </p>
             <div className="mx-8 mb-7 flex flex-row justify-center">
               <SiAdobephotoshop className="text-3xl mx-1 text-slate-500" />

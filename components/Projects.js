@@ -19,6 +19,7 @@ function Projects() {
                 <img
                   className="border-none rounded-3xl p-3"
                   src="/kpidashboard.png"
+                  alt="Bosch KPI Dashboard"
                 />
               </div>
               <div className="flex flex-row mx-8 mt-4">
@@ -49,7 +50,7 @@ function Projects() {
           <div className="flex flex-col bg-gradient-to-r bg-transparent hover:from-[#50d89f]  hover:to-[#6a7eda] border-none shadow-md rounded-3xl md:w-1/2 mt-5 md:mt-10 p-0.5">
             <div className="flex flex-col bg-[#191C25] border-none shadow-md rounded-3xl">
               <div className="">
-                <img className="border-none rounded-3xl p-3" src="/mysj.png" />
+                <img className="border-none rounded-3xl p-3" src="/mysj.png" alt="MySejahtera Vaccination Status Detector"/>
               </div>
               <div className="flex flex-row mx-8 mt-4">
                 <div className="bg-[#273a3a] rounded-lg mr-2">
@@ -92,6 +93,7 @@ function Projects() {
                 <img
                   className="border-none rounded-3xl p-3"
                   src="/portfolio.png"
+                  alt="Portfolio"
                 />
               </div>
               <div className="flex flex-row mx-8 mt-4">
@@ -130,7 +132,7 @@ function Projects() {
           <div className="flex flex-col bg-gradient-to-r bg-transparent hover:from-[#50d89f]  hover:to-[#6a7eda] border-none shadow-md rounded-3xl md:w-1/2 mt-5 md:mt-10 p-0.5">
             <div className="flex flex-col bg-[#191C25] border-none shadow-md rounded-3xl">
               <div className="">
-                <img className="border-none rounded-3xl p-3" src="/fitai.png" />
+                <img className="border-none rounded-3xl p-3" src="/fitai.png" alt="FitAI Workout Posture Corrector"/>
               </div>
               <div className="flex flex-row mx-8 mt-4">
                 <div className="bg-[#273a3a] rounded-lg mr-2">

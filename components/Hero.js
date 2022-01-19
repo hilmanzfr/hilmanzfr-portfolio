@@ -49,7 +49,7 @@ function Hero() {
                   </btn>
                 </div>
               </Link>
-              <Link href="/">
+              <Link href="https://drive.google.com/file/d/1EO4tLxY4dc0sANlP5dhPdvWrWzXc2FMe/view?usp=sharing">
                 <div className="p-0.5 rounded-2xl bg-gradient-to-r from-[#50d89f]  to-[#6a7eda]  hover:shadow-sm hover:shadow-[#44d3f7]">
                   <btn className="flex items-center px-5 pt-2 pb-3 text-md sm:text-lg md:text-xl lg:text-2xl  font-medium rounded-2xl cursor-pointer text-slate-300 bg-slate-900 hover:text-white md:pt-3 md:pb-4 md:px-8">
                     Resume
@@ -60,7 +60,7 @@ function Hero() {
           </div>
 
           <div className="flex flex-col mb-10 mx-auto md:mb-0 w-5/6 md:w-4/6">
-            <img src="/dp.png" />
+            <img src="/dp.png" alt="My Picture"/>
             {/* <Image src={"/dp.png"} width={300} height={450} objectFit="contain" quality={100}  /> */}
           </div>
         </div>
